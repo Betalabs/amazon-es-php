@@ -1,5 +1,5 @@
 {
-    "name": "jsq/amazon-es-php",
+    "name": "betalabs/amazon-es-php",
     "description": "Support for using IAM authentication with the official Elasticsearch PHP client",
     "keywords": ["elasticsearch", "aws", "search", "client", "iam"],
     "minimum-stability": "stable",
@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "elasticsearch/elasticsearch": "^2.1|^5.0|^6.0|^7.0",
+        "elasticsearch/elasticsearch": "^2.1|^5.0|^6.0|^7.0|^8.0",
         "aws/aws-sdk-php": "^3.0"
     },
     "require-dev": {
